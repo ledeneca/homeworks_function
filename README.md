@@ -1,1 +1,1 @@
-# homeworks_function
+A simple command-line application.
